@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+# You'll need crud-games to run this project (this crud is .NET 6)
+
+Clone crud-games ''https://github.com/Daniel-Ryro/crud-games'', after you can start this project.
+
 In the project directory, you can run:
 
 ### `npm start`
